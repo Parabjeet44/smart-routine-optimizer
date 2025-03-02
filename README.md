@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First Download Firbase and setup firebase</br>
-Secondly Download recharts 
-Third get the openai key
+Secondly Download recharts<br/>
+Third get the openai key<br/>
 Fourth, run the development server:
 
 ```bash
