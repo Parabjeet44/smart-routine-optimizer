@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First Download Firbase and setup firebase
+First Download Firbase and setup firebase</br>
 Secondly Download recharts 
 Third get the openai key
 Fourth, run the development server:
